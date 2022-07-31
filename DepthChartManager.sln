@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthChartManager.ConsoleApp", "DepthChartManager.ConsoleApp\DepthChartManager.ConsoleApp.csproj", "{6834882C-0E71-4F2C-9105-0BD3F30EA9CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthChartManager.Infrastructure", "DepthChartManager.Infrastructure\DepthChartManager.Infrastructure.csproj", "{7DD7DE02-23F7-4596-8708-945E4EDE43C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthChartManager.Domain", "DepthChartManager.Domain\DepthChartManager.Domain.csproj", "{7AF758BE-E481-409C-8233-2704149D2662}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthChartManager.Core", "DepthChartManager.Core\DepthChartManager.Core.csproj", "{AF3256CB-319B-43FD-B0B1-573BE0A60A61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthChartManager.Helpers", "DepthChartManager.Helpers\DepthChartManager.Helpers.csproj", "{D2965D6F-C263-4AC4-9023-97AC33487944}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthChartManager.Tests", "DepthChartManager.Tests\DepthChartManager.Tests.csproj", "{48803137-51FA-4058-A365-193E93139395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6834882C-0E71-4F2C-9105-0BD3F30EA9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6834882C-0E71-4F2C-9105-0BD3F30EA9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6834882C-0E71-4F2C-9105-0BD3F30EA9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6834882C-0E71-4F2C-9105-0BD3F30EA9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD7DE02-23F7-4596-8708-945E4EDE43C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD7DE02-23F7-4596-8708-945E4EDE43C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD7DE02-23F7-4596-8708-945E4EDE43C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD7DE02-23F7-4596-8708-945E4EDE43C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF758BE-E481-409C-8233-2704149D2662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF758BE-E481-409C-8233-2704149D2662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF758BE-E481-409C-8233-2704149D2662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF758BE-E481-409C-8233-2704149D2662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3256CB-319B-43FD-B0B1-573BE0A60A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3256CB-319B-43FD-B0B1-573BE0A60A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3256CB-319B-43FD-B0B1-573BE0A60A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3256CB-319B-43FD-B0B1-573BE0A60A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2965D6F-C263-4AC4-9023-97AC33487944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2965D6F-C263-4AC4-9023-97AC33487944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2965D6F-C263-4AC4-9023-97AC33487944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2965D6F-C263-4AC4-9023-97AC33487944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48803137-51FA-4058-A365-193E93139395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48803137-51FA-4058-A365-193E93139395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48803137-51FA-4058-A365-193E93139395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48803137-51FA-4058-A365-193E93139395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C198692-AB5E-4138-AFCF-24014FD632CF}
+	EndGlobalSection
+EndGlobal
